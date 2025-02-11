@@ -1,0 +1,20 @@
+.landing-title {
+    margin-bottom: 16px; /* Ajuste l'espacement entre le titre et l'image */
+    text-align: center;
+  }
+
+.landing-card {
+    width: 32vw;
+}
+
+.landing-image {
+    display: block;
+    width: 160px;
+    margin: 0 auto;
+}
+
+.landing{
+    /*background-color: #00215d;*/
+    background: linear-gradient(#0b004e,#1d152f,#002834);
+    height: 110vh;
+}

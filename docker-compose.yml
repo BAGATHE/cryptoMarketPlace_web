@@ -1,0 +1,7 @@
+services:
+  react-vite:
+    build:
+      context: .
+    container_name: react-vite
+    ports:
+      - "5173:80"
